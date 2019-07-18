@@ -18,7 +18,15 @@ Just load the not-paid.js file in ```<head>```
 
 A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
 
+There's also an Android version available [here](https://github.com/theapache64/faded).
+
 ## Author
 
 Inspired from twitter (@riklomas)
 Made by Ciprian (@kleampa), Romania
+
+PS: No PR's or issues will be accepted for this project. 
+
+## Advertising
+
+Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
